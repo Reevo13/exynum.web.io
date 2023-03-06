@@ -1,0 +1,422 @@
+#btn1 {
+  width: 70px;
+  margin-left: 135px;
+  border: 3px solid;
+  border-color: gray;
+  border-radius: 50%;
+  margin-top: 10px;
+}
+
+#kata {
+ color: white;
+}
+
+#exe {
+  margin-left: 205px;
+  margin-top: -78px;
+  font-family: 'Tilt Warp', cursive;a
+}
+
+#ez {
+  margin-left: 213px;
+  margin-top: -8px;
+  font-family: 'Tilt Warp', cursive;
+}
+
+#str {
+  margin-left: 208px;
+  margin-top: -8px;
+  font-family: 'Tilt Warp', cursive;
+}
+
+#konte {
+  margin-left: -35px;
+  margin-top: 10px;
+}
+
+#pstr {
+  width: 300px;
+  border: 3px solid;
+  border-color: gray;
+  border-radius: 18px;
+  margin-left: 25px;
+  margin-top: 10px;
+}
+
+#mb {
+  color: white;
+  margin-top: 29px;
+  margin-left: 20px;
+  font-family: 'Tilt Warp', cursive;
+}
+
+#list1 {
+  margin-left: 10px;
+  margin-top: 30px;
+}
+
+
+#btn2 {
+  height: 130px;
+  font-size: 10px;
+  padding: 19px;
+  margin-left: 10px;
+  color: white;
+  background: black;
+  border: 2px solid;
+  border-color: gray;
+  border-radius: 5px;
+}
+
+#btn3 {
+  height: 130px;
+  font-size: 10px;
+  padding: 24px;
+  margin-left: 15px;
+  color: white;
+  background: black;
+  border: 2px solid;
+  border-color: gray;
+  border-radius: 5px;
+}
+
+#btn4 {
+  height: 130px;
+  font-size: 10px;
+  padding: 15px;
+  margin-left: 18px;
+  color: white;
+  background: black;
+  border: 2px solid;
+  border-color: gray;
+  border-radius: 5px;
+}
+
+#nl1 {
+  color: white;
+  font-size: 11px;
+  margin-left: 14px;
+  margin-top: -33px;
+}
+
+#nl2 {
+  color: white;
+  font-size: 11px;
+  margin-left: 140px;
+  margin-top: -33px;
+}
+
+#nl3 {
+  color: white;
+  font-size: 10px;
+  margin-left: 238px;
+  margin-top: -33px;
+}
+
+#ml {
+  width: 60px;
+  border-radius: 8px;
+  margin-top: -245px;
+  margin-left: 35px;
+}
+
+#ff {
+  width: 60px;
+  border-radius: 8px;
+  margin-top: -245px;
+  margin-left: 46px;
+}
+
+#gs {
+  width: 60px;
+  border-radius: 8px;
+  margin-top: -245px;
+  margin-left: 50px;
+}
+
+#btn5 {
+  height: 132px;
+  font-size: 10px;
+  padding: 25px;
+  margin-left: 20px;
+  color: white;
+  background: black;
+  border: 2px solid;
+  border-color: gray;
+  border-radius: 5px;
+}
+
+#btn6 {
+  height: 132px;
+  font-size: 10px;
+  padding: 19px;
+  margin-left: 15px;
+  color: white;
+  background: black;
+  border: 2px solid;
+  border-color: gray;
+  border-radius: 5px;
+}
+
+#btn7 {
+  height: 132px;
+  font-size: 10px;
+  padding: 33px;
+  margin-left: 15px;
+  color: white;
+  background: black;
+  border: 2px solid;
+  border-color: gray;
+  border-radius: 5px;
+}
+
+#list2 {
+  margin-top: 20px;
+  
+}
+
+#nl4 {
+  color: white;
+  font-size: 11px;
+  margin-left: 30px;
+  margin-top: -33px;
+}
+
+#nl5 {
+  color: white;
+  font-size: 11px;
+  margin-left: 154px;
+  margin-top: -33px;
+}
+
+#nl6 {
+  color: white;
+  font-size: 11px;
+  margin-left: 263px;
+  margin-top: -33px;
+}
+
+#cod {
+  width: 60px;
+  border-radius: 8px;
+  margin-top: -245px;
+  margin-left: 35px;
+}
+
+#ss {
+  width: 60px;
+  border-radius: 8px;
+  margin-top: -245px;
+  margin-left: 48px;
+}
+
+#vl {
+  width: 60px;
+  border-radius: 8px;
+  margin-top: -245px;
+  margin-left: 50px;
+}
+
+#testi {
+  color: white;
+  
+  position: relative;
+  margin-left: 30px;
+  background: none;
+  border: none;
+}
+
+#navbar {
+  background: 	rgb(105, 105, 105);
+  position: fixed;
+  margin-top: -735px;
+  padding-top: 30px;
+  padding-bottom: auto;
+  width: 200px;
+  font-family: 'Tilt Warp', cursive;
+  display: none;
+  border: 3px solid;
+  border-color: gray;
+  border-radius: 10px;
+}
+
+#info {
+  background: none;
+  border: none;
+  color: white;
+  margin-left: 30px;
+  margin-top: 70px;
+  
+  
+}
+
+#bck {
+  background: white;
+  border: none;
+  color: ;
+  margin-left: 135px;
+  margin-top: 70px;
+  border-radius: 19px;
+}
+
+#cs {
+  color: white;
+  background: rgb(105, 105, 105);
+  margin-left: 30px;
+  font-size: 15px;
+  width: 130px;
+  height: 27px;
+  border: 2px solid;
+  border-color: gray;
+  border-radius: 10px;
+  margin-top: -700px;
+  position: fixed;
+  margin-left: 225px;
+  display: none;
+}
+
+#garis {
+  border-top: 5px solid;
+  border-color: gray;
+}
+
+#mtd {
+  text-align: center;
+  color: white;
+  font-family: 'Tilt Warp', cursive;
+  margin-top: 25px;
+}
+
+#ovo {
+  width: 90px;
+  margin-left: 20px;
+  margin-top: 20px;
+  background: white;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border: 4px solid;
+  border-color: gray;
+  border-radius: 10px;
+}
+
+#dn {
+  width: 90px;
+  margin-top: 20px;
+  margin-left: 20px;
+  background: white;
+  padding-top: 15px;
+  padding-bottom: 10px;
+  border: 4px solid;
+  border-color: gray;
+  border-radius: 10px;
+  
+}
+
+#gp {
+  width: 90px;
+  background: white;
+  margin-top: 20px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  border: 4px solid;
+  border-color: gray;
+  border-radius: 10px;
+  margin-left: 20px;
+}
+
+#bca {
+  width: 90px;
+  margin-left: 20px;
+  margin-top: 20px;
+  background: white;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border: 4px solid;
+  border-color: gray;
+  border-radius: 10px;
+}
+
+#mb2 {
+  margin-top: 10px;
+}
+
+#garis2 {
+  border-top: 5px solid;
+  border-color: gray;
+  margin-top: 45px;
+}
+
+#kontel {
+  margin-left: -35px;
+  margin-top: 40px;
+}
+
+#ig {
+  width: 30px;
+  margin-left: 135px;
+  margin-top: 19px;
+}
+
+#wa {
+  width: 28px;
+  margin-top: 10px;
+  margin-left: 30px;
+}
+
+#cp {
+  color: white;
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+  font-size: 13px;
+  margin-top: 50px;
+  padding-bottom: 120px;
+}
+#white {
+  background: gray;
+}
+
+#test {
+  font-size: 20px;
+  background: gray;
+  width: 70px;
+  text-align: center;
+  background: none;
+  border: none;
+}
+
+#test1 {
+  font-size: 20px;
+  background: gray;
+  width: 80px;
+  text-align: center;
+  margin-left: 60px;
+  background: none;
+  border: none;
+}
+
+#test2 {
+  font-size: 20px;
+  background: gray;
+  width: 70px;
+  text-align: center;
+  margin-left: 70px;
+  background: none;
+  border: none;
+  
+}
+
+#rvo {
+  background: rgb(105, 105, 105);
+  top: 620px;
+
+  height: 140px;
+  width: 100%;
+   z-index: 1;
+  position: fixed;
+  border-top: 4px solid;
+  border-color: gray;
+  
+  
+  
+}
+ 
